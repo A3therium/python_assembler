@@ -1,4 +1,4 @@
-# Written by Samuel Horner - 2023
+# Written by A3therium - 2023
 # Made to run AQA's assembly language (with slight adjustments)
 
 from tkinter import filedialog as fd
