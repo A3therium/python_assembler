@@ -1,3 +1,10 @@
+### IMPORTANT ###
+Any spaces here should be written as commas, e.g:
+ADD,R1,R0,R2
+SUB,R3,R2,R1
+//,Some comment
+VAL,#100
+
 /* INSTRUCTION SET ---
 	LDR Rd, <memory ref> Load the value stored in the memory location
 		specified by <memory ref> into register d.
